@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle web-dev",
+        "command": "web-dev:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "web-dev",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "web-dev:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
