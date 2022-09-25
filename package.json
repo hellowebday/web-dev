@@ -1,8 +1,8 @@
 {
-  "name": "web-dev",
+  "name": "web-dev-w3bd4y",
   "main": "./lib/web-dev",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "1.0.0",
+  "description": "รับทำเว็บไซต์ Wordpress",
   "keywords": [
   ],
   "activationCommands": {
