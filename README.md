@@ -2,8 +2,8 @@
 
 <h1>รับทำเว็บ<h1>
 
-Webday ให้บริการรับทำเว็บไซต์ ราคาถูก เริ่มต้นเพียง 2990 บาทเท่านั้น ออกแบบเว็บไซต์ให้สวยงาม เรียบง่าย น่าเชื่อถือ
-ใช้งานง่าย มีระบบหลังบ้านแก้ไขเว็บไซต์ได้เอง รองรับการค้นหาผ่าน Google
+<p>Webday ให้บริการรับทำเว็บไซต์ ราคาถูก เริ่มต้นเพียง 2990 บาทเท่านั้น ออกแบบเว็บไซต์ให้สวยงาม เรียบง่าย น่าเชื่อถือ
+ใช้งานง่าย มีระบบหลังบ้านแก้ไขเว็บไซต์ได้เอง รองรับการค้นหาผ่าน Google</p>
 
 
 <h3><a href="https://webday.co">รับทำเว็บไซต์</a></h3>
@@ -58,10 +58,10 @@ Webday ให้บริการรับทำเว็บไซต์ รา
 
 <h4>แจกธีมสำหรับเว็บไซต์</h4>
 <ul>
-<li>Hello Elementor ธีมฟรีสำหรับเว็บไซต์ที่ใช้ Elementor เป็น Builder ตัวหลัก <a href="https://pcm.wordpress.org/themes/hello-elementor/">ลิงก์ดาวน์โหลด</li>
-<li>Hello Elementor Child Theme ธีมลูก สำหรับของ Hello Elementor (ไม่มีไฟล์ script ให้ ท่านต้องทำการ enqueue script เพิ่มในไฟล์ function.php) <a href="https://github.com/elementor/hello-theme-child">ลิงก์ดาวน์โหลด</li>
-<li>TailPress ธีมที่ให้คุณใช้ Tailwind กับธีม wordpress ได ้<a href="https://tailpress.io/">ลิงก์ดาวน์โหลด</li>
-<li>Generate ธีมทำเว็บไซต์ Wordpress แบบ Full-Site Editing ได้แบบฟรีๆ <a href="https://fullsiteediting.com/">ลิงก์ดาวน์โหลด/<li>
+<li>Hello Elementor ธีมฟรีสำหรับเว็บไซต์ที่ใช้ Elementor เป็น Builder ตัวหลัก <a href="https://pcm.wordpress.org/themes/hello-elementor/">ลิงก์ดาวน์โหลด</a></li>
+<li>Hello Elementor Child Theme ธีมลูก สำหรับของ Hello Elementor (ไม่มีไฟล์ script ให้ ท่านต้องทำการ enqueue script เพิ่มในไฟล์ function.php) <a href="https://github.com/elementor/hello-theme-child">ลิงก์ดาวน์โหลด</a></li>
+<li>TailPress ธีมที่ให้คุณใช้ Tailwind กับธีม wordpress ได ้<a href="https://tailpress.io/">ลิงก์ดาวน์โหลด</a></li>
+<li>Generate ธีมทำเว็บไซต์ Wordpress แบบ Full-Site Editing ได้แบบฟรีๆ <a href="https://fullsiteediting.com/">ลิงก์ดาวน์โหลด</a></li>
 </ul>
 
 
